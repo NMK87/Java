@@ -15,10 +15,10 @@ public class ExampleCustom {
 		School(8);
 	}
 	catch(Exception e) {
+		
 		System.out.println(e);
 	}
 }
-
 
 public static void School(int marks) throws FailedStudentsException {
 	
