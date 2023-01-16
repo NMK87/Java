@@ -21,7 +21,7 @@ public class RunnableException {
 		
 		for(int i=1; i<=5; i++) {
 			
-			System.out.println("ammu");
+			System.out.println("love");
 		}
 	}
 

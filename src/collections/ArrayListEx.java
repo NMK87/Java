@@ -1,4 +1,4 @@
-package arrayList;
+package collections;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -46,6 +46,8 @@ public class ArrayListEx {
 		//to sort list
 		Collections.sort(list);
 		System.out.println(list);
+		
+		
 	}
 
 }
